@@ -1,0 +1,4 @@
+1-npm install class-transformer --save
+2-npm install reflect-metadata --save
+3-add in index.html <script src="node_modules/reflect-metadata/Reflect.js"></script>
+4-npm start ng serve --poll=2000
